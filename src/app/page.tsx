@@ -389,7 +389,7 @@ export default function Home(): JSX.Element {
       description:
         "Research with Prof. Kong at the Vanderbilt Machine Learning Lab",
       fullDescription:
-        "Researching deep learning",
+        "Researching deep learning and applied ML in aerospace",
       technologies: ["Next.js", "TypeScript", "Prisma", "Socket.io", "PostgreSQL"],
       features: ["Live editing", "Filters", "File uploads"],
       challenges:
@@ -402,9 +402,9 @@ export default function Home(): JSX.Element {
       id: 3,
       title: "Primis.CX - Growth and Market Entry",
       description:
-        "Gulf Cooperation Council entry project for a B2B consumer experience tech startup in the heart of South Africa",
+        "Gulf Cooperation Council market entry project for a B2B consumer experience tech startup in the heart of South Africa",
       fullDescription:
-        "Transforms raw data into simple visuals. Virtualized rendering + caching keep it snappy.",
+        "",
       technologies: ["React", "D3.js", "Python", "FastAPI"],
       features: ["Drill-downs", "Streaming updates", "Exports"],
       challenges:
@@ -424,12 +424,12 @@ export default function Home(): JSX.Element {
     {
       icon: <Palette className="w-7 h-7" />,
       title: "C++",
-      desc: "During my sophomore year summer, I interned at a hedge fund as a quant researcher. I used C++ as my main language ",
+      desc: "I'm a quant, this a necessity!!",
     },
     {
       icon: <Zap className="w-7 h-7" />,
       title: "JavaScript",
-      desc: "Front-end is fun, I can create anything",
+      desc: "Gives me the flexibility to create websites like dis one",
     },
   ];
 
@@ -465,9 +465,10 @@ export default function Home(): JSX.Element {
             <div className="text-3xl md:text-4xl font-light text-blue-600 tracking-tight h-16 flex items-center justify-center">
               <TypeWriterText
                 texts={[
-                  "Student at Vanderbilt",
-                  "I like building things",
-                  "Learning in public",
+                  "Junior at Vanderbilt",
+                  "I'm an ECON major but I like CS a lot",
+                  "Reach out!",
+                  "Maybe we can build something",
                 ]}
               />
             </div>
