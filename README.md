@@ -1,10 +1,11 @@
-# Hi, I’m James 👋  
-Junior at Vanderbilt University | Quantitative Finance • Machine Learning • Applied Econometrics
+# Whattup, I’m James 
+Junior at Vanderbilt University | Quantitative Finance • Machine Learning
 
 This GitHub is a curated portfolio of my work in **quantitative trading, machine learning, and research-grade data analysis**.  
-My focus is on building **end-to-end systems**: from data ingestion and modeling → signal construction → backtesting and evaluation.
+I focus on building **end-to-end systems**: from data ingestion and modeling → signal construction → backtesting and evaluation.
 
-> I care about clean methodology, reproducible research, and production-minded engineering — not just notebooks that “look cool.”
+> I care about clean methodology, reproducible research, and production-minded engineering.  
+> Less about notebooks that “look cool,” more about work that actually holds up.
 
 ---
 
@@ -16,15 +17,15 @@ My focus is on building **end-to-end systems**: from data ingestion and modeling
   Probabilistic models, classification/regression, model evaluation (Brier score, ROC, etc.)
 
 - 🧮 **Applied Econometrics & Causal Analysis**  
-  OLS/IV, panel data, difference-in-differences, and policy-relevant empirical work
+  OLS/IV, panel data, difference-in-differences, policy-relevant empirical work
 
 - ⚙️ **Systems & Research Engineering**  
   Performance-aware pipelines, reproducibility, modular research code
 
 ---
 
-## 🚀 Featured / In-Progress Projects
-*(Repos will be actively updated — this README reflects the direction of the portfolio.)*
+## 🚀 Featured / In-Progress Projects  
+*(Repos are actively evolving — this README reflects the direction I’m intentionally building toward.)*
 
 **📊 Event-Driven Trading & Forecasting Engine**  
 Probabilistic forecasting system for macro/event contracts  
@@ -72,7 +73,7 @@ Applied ML experiments with emphasis on:
 - `research/` – empirical studies & econometric analysis  
 - `systems/` – performance-focused code & infra experiments  
 
-Each repo includes:
+Each repo aims to include:
 - Clear problem framing  
 - Methodology notes  
 - Evaluation metrics  
@@ -87,10 +88,10 @@ I’m actively developing:
 - ML pipelines for financial decision-making  
 - Cleaner, more production-minded codebases  
 
-This portfolio is being iterated toward **quant research / trading roles and ML-heavy finance roles**.
+This portfolio is being built toward **quant research / trading roles and ML-heavy finance roles**.
 
 ---
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/james-zhang05/  
-- Email: james.zhang@vanderbilt.edu
+- Email: james.zhang@vanderbilt.edu  
