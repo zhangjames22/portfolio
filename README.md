@@ -1,36 +1,96 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hi, I’m James 👋  
+Junior at Vanderbilt University | Quantitative Finance • Machine Learning • Applied Econometrics
 
-## Getting Started
+This GitHub is a curated portfolio of my work in **quantitative trading, machine learning, and research-grade data analysis**.  
+My focus is on building **end-to-end systems**: from data ingestion and modeling → signal construction → backtesting and evaluation.
 
-First, run the development server:
+> I care about clean methodology, reproducible research, and production-minded engineering — not just notebooks that “look cool.”
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔍 Core Focus Areas
+- 📈 **Quantitative Trading & Factor Research**  
+  Signal construction, alpha validation, factor correlation analysis, backtesting frameworks
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 🤖 **Machine Learning for Forecasting & Decision Systems**  
+  Probabilistic models, classification/regression, model evaluation (Brier score, ROC, etc.)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🧮 **Applied Econometrics & Causal Analysis**  
+  OLS/IV, panel data, difference-in-differences, and policy-relevant empirical work
 
-## Learn More
+- ⚙️ **Systems & Research Engineering**  
+  Performance-aware pipelines, reproducibility, modular research code
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Featured / In-Progress Projects
+*(Repos will be actively updated — this README reflects the direction of the portfolio.)*
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**📊 Event-Driven Trading & Forecasting Engine**  
+Probabilistic forecasting system for macro/event contracts  
+- Feature engineering from economic time series  
+- Logistic / tree-based models  
+- Proper scoring rules (e.g., Brier score)  
+- Backtesting + calibration
 
-## Deploy on Vercel
+**📦 Quant Research: Alpha Factor Library**  
+Systematic equity factor research and validation framework  
+- Signal construction & normalization  
+- Cross-sectional factor testing  
+- Correlation pruning & redundancy analysis  
+- Performance attribution
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**🧠 Machine Learning Research Projects**  
+Applied ML experiments with emphasis on:
+- Model selection & validation  
+- Bias/variance tradeoffs  
+- Interpretability & robustness
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🛠 Tech Stack
+**Languages:**  
+- Python (research & modeling)  
+- C++ (performance-critical components)  
+- Java (systems / coursework)
+
+**ML / Quant:**  
+- NumPy, pandas, scikit-learn, statsmodels  
+- Feature engineering, backtesting, cross-validation  
+- Time-series & cross-sectional modeling
+
+**Tooling:**  
+- Git, Linux, Jupyter  
+- Reproducible research workflows  
+- Modular project structure
+
+---
+
+## 📁 Repository Structure (Intentional, Not Random)
+- `trading/` – event-driven strategies, backtests, signal research  
+- `ml/` – forecasting models, pipelines, experiments  
+- `research/` – empirical studies & econometric analysis  
+- `systems/` – performance-focused code & infra experiments  
+
+Each repo includes:
+- Clear problem framing  
+- Methodology notes  
+- Evaluation metrics  
+- Reproducible runs
+
+---
+
+## 🎯 Current Direction
+I’m actively developing:
+- Research-grade backtesting infrastructure  
+- Event-based trading models  
+- ML pipelines for financial decision-making  
+- Cleaner, more production-minded codebases  
+
+This portfolio is being iterated toward **quant research / trading roles and ML-heavy finance roles**.
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/james-zhang05/  
+- Email: james.zhang@vanderbilt.edu
