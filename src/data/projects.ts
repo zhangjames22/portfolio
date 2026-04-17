@@ -40,14 +40,14 @@ export const projects: Project[] = [
   {
     id: 1,
     slug: "kalshi-cpi-engine",
-    title: "Kalshi CPI Event Futures Trading Engine",
+    title: "Kalshi CPI Surprise Engine",
     category: "Trading Systems",
     status: "In progress",
     description:
-      "End-to-end probabilistic forecasting + trading workflow for CPI event contracts (mispricing detection + backtest).",
+      "A quantitative probability engine that pulls live macro data from FRED and Kalshi market prices to estimate fair-value CPI surprise probabilities across discrete buckets. Identifies mispricing signals ahead of CPI release dates.",
     fullDescription:
       "Pipeline: macro data ingestion → feature engineering → probabilistic models → calibration → backtesting vs market-implied probabilities.",
-    technologies: ["Python", "pandas", "scikit-learn", "statsmodels", "PostgreSQL", "Docker"],
+    technologies: ["Python", "pandas", "scipy", "FRED API", "Kalshi API"],
     highlights: [
       "Designed a time-series dataset pipeline with versioned features and clean joins",
       "Trained probabilistic baselines and evaluated with proper scoring rules (Brier)",
@@ -69,7 +69,7 @@ export const projects: Project[] = [
       "Run robustness checks across different time windows",
       "Document assumptions: slippage, sizing, and execution constraints",
     ],
-    githubUrl: "https://github.com/<yourusername>/kalshi-cpi-engine",
+    githubUrl: "https://github.com/zhangjames22/kalshi-cpi-engine",
     image: null,
   },
 
